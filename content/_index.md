@@ -20,7 +20,7 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: skills
+  - block: collection
     content:
       title: Recent Publications
       text: ''
