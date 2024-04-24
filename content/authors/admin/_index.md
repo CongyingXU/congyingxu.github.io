@@ -28,10 +28,10 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Metamorphic Testing
-  - AI Ethic
-  - Software Analytics 
+# interests:
+#   - Metamorphic Testing
+#   - AI Ethic
+#   - Software Analytics 
 
 # Education to show in About widget
 education:
