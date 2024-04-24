@@ -22,7 +22,7 @@ sections:
   #     columns: '1'
   - block: skills
     content:
-      title: Publications
+      title: Recent Publications
       text: ''
       filters:
         folders:
