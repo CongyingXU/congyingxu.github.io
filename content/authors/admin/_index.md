@@ -17,42 +17,43 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student 
+role: 2nd-year PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CASTLE Group, The Hong Kong University of Science and Technology (HKUST)
+  - name: CASTLE Lab, CSE, The Hong Kong University of Science and Technology (HKUST)
     url: http://castle.cse.ust.hk/castle/index.html
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-# interests:
-#   - Metamorphic Testing
-#   - AI Ethic
-#   - Software Analytics 
+interests:
+  * Metamorphic Testing
+  * AI Ethics
+  * Software Security
+  * Software Analytics 
 
 # Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Software Engineering
-#       institution: The Hong Kong University of Science and Technology
-#       year: 2022 - now
-#     - course: MEng in Software Engineering
-#       institution: Fudan University
-#       year: 2019 - 2022
-#     - course: BSc in Internet of Things
-#       institution: Yanzhou Univeristy
-#       year: 2015 - 2019
 education:
   courses:
-    - course: PhD Student at HKUST
+    - course: PhD in Computer Science
+      institution: The Hong Kong University of Science and Technology
       year: 2022 - now
-    - course: MEng at Fudan University
+    - course: MEng in Software Engineering
+      institution: Fudan University
       year: 2019 - 2022
-    - course: BSc at Yanzhou Univeristy
+    - course: BSc in Internet of Things
+      institution: Yanzhou Univeristy
       year: 2015 - 2019
+# education:
+#   courses:
+#     - course: PhD Student at HKUST
+#       year: 2022 - now
+#     - course: MEng at Fudan University
+#       year: 2019 - 2022
+#     - course: BSc at Yanzhou Univeristy
+#       year: 2015 - 2019
 
 
 # Skills
@@ -141,5 +142,9 @@ social:
 highlight_name: true
 ---
 
-I am a second-year PhD student at HKUST, supervised by [Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). My research interests include metamorphic testing (MT), AI ethics, and software data analytics.
+I am a second-year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/). I earned my Bachelor's degree from Yangzhou University, where I was guided by [Prof. Xiaobing SUN](https://chenbihuan.github.io/) ().
+
+Before that, I received my master degree at Fudan University, supversied by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/). I reieced my bachlar degree ar Yangzhou Unversity, supversied by [Prof. Xiaobing SUN](https://chenbihuan.github.io/).
+
+<!-- My research interests include metamorphic testing (MT), AI ethics, software security, and software data analytics. -->
 {style="text-align: justify;"}
