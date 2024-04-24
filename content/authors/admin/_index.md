@@ -29,10 +29,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  * Metamorphic Testing
-  * AI Ethics
-  * Software Security
-  * Software Analytics 
+  - Metamorphic Testing
+  - AI Ethics
+  - Software Security
+  - Software Analytics 
 
 # Education to show in About widget
 education:
