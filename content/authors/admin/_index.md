@@ -34,17 +34,26 @@ organizations:
 #   - Software Analytics 
 
 # Education to show in About widget
+# education:
+#   courses:
+#     - course: PhD in Software Engineering
+#       institution: The Hong Kong University of Science and Technology
+#       year: 2022 - now
+#     - course: MEng in Software Engineering
+#       institution: Fudan University
+#       year: 2019 - 2022
+#     - course: BSc in Internet of Things
+#       institution: Yanzhou Univeristy
+#       year: 2015 - 2019
 education:
   courses:
-    - course: PhD in Software Engineering
-      institution: The Hong Kong University of Science and Technology
+    - course: PhD Student at HKUST
       year: 2022 - now
-    - course: MEng in Software Engineering
-      institution: Fudan University
+    - course: MEng at Fudan University
       year: 2019 - 2022
-    - course: BSc in Internet of Things
-      institution: Yanzhou Univeristy
+    - course: BSc at Yanzhou Univeristy
       year: 2015 - 2019
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
