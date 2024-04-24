@@ -5,8 +5,8 @@ authors:
   - admin
   - Valerio Terragni, Hengcheng Zhu, Jiarong Wu, Shing-Chi Cheung
 
-publication: In *ACM Transactions on Software Engineering and Methodology*
-publication_short: In *FSE'22*
+publication: "In *ACM Transactions on Software Engineering and Methodology*"
+publication_short: "FSE'22"
 
 featured: true
 
