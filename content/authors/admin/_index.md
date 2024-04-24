@@ -21,7 +21,7 @@ role: 2nd-year PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CASTLE Lab, CSE, The Hong Kong University of Science and Technology (HKUST)
+  - name: CASTLE Lab, The Hong Kong University of Science and Technology (HKUST)
     url: http://castle.cse.ust.hk/castle/index.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -141,10 +141,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a second-year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/). I earned my Bachelor's degree from Yangzhou University, where I was guided by [Prof. Xiaobing SUN](https://chenbihuan.github.io/) ().
-
-Before that, I received my master degree at Fudan University, supversied by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/). I reieced my bachlar degree ar Yangzhou Unversity, supversied by [Prof. Xiaobing SUN](https://chenbihuan.github.io/).
-
+[Updating]
+I am a second-year PhD student at HKUST, supervised by [Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/). I earned my Bachelor's degree from Yangzhou University, where I was guided by [Prof. Xiaobing SUN](https://chenbihuan.github.io/).
 <!-- My research interests include metamorphic testing (MT), AI ethics, software security, and software data analytics. -->
 {style="text-align: justify;"}
