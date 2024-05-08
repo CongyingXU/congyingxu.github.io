@@ -28,6 +28,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
+      limit: 100 
     design:
       columns: '1'
       view: Compact # citation card
@@ -40,6 +41,7 @@ sections:
         folders:
           - publication
         featured_only: false
+      limit: 100 
     design:
       columns: '1'
       view: citation # card
