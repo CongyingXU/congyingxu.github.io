@@ -133,8 +133,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-👋 Welcome! I am Congying XU, a second-year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). 
-
-Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree from Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://chenbihuan.github.io/) (College Dean).
+👋 Welcome! I am Congying XU, a second-year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree from Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://chenbihuan.github.io/) (College Dean).
 <!-- My research interests include metamorphic testing (MT), AI ethics, software security, and software data analytics. -->
 {style="text-align: justify;"}
