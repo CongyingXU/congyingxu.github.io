@@ -29,14 +29,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-Metamorphic Testing. 
-  
-  test to type sth.
-
+Metamorphic Testing. test to type sth.
   - AI Ethics
-
   test to type sth2
-
   - Software Security
   - Software Analytics 
 
