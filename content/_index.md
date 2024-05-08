@@ -31,6 +31,10 @@ sections:
       #     - publication
       #   exclude_featured: true
       limit: 100 
+      # Choose how much pages you would like to display (0 = all pages)
+      count: 10
+      # # Choose how many pages you would like to offset by
+      # offset = 0
     design:
       columns: '1'
       view: Compact # citation card
@@ -44,6 +48,7 @@ sections:
           - publication
         featured_only: false
       limit: 100 
+      count: 10
     design:
       columns: '1'
       view: citation # card
