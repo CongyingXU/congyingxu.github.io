@@ -22,22 +22,18 @@ sections:
   #     columns: '1'
   - block: collection
     content:
-      title: Publications [Updating]
-      text: ''
-      folders:
+      title: Publications
+      # text: ''
+      filters:
+        folders:
           - publication
-      # filters:
-      #   folders:
-      #     - publication
-      #   exclude_featured: true
+        exclude_featured: true
       limit: 100 
       # Choose how much pages you would like to display (0 = all pages)
-      count: 10
-      # # Choose how many pages you would like to offset by
-      # offset = 0
+      count: 100
     design:
       columns: '1'
-      view: Compact # citation card
+      view: list # citation card
 
   - block: collection
     id: featured
