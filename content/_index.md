@@ -30,8 +30,19 @@ sections:
         exclude_featured: true
     design:
       columns: '1'
-      view: citation
+      view: List # citation card
 
+  - block: collection
+    id: featured
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: false
+    design:
+      columns: '1'
+      view: citation # card
 
   # - block: experience
   #   content:
@@ -174,18 +185,6 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '1'
-      # view: card
-      view: citation
 
 
   # - block: collection
