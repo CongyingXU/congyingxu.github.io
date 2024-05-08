@@ -28,11 +28,15 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+# interets
+Research Interests:
   - Metamorphic Testing
   - AI Ethics
   - Software Security
   - Software Analytics 
+
+News:
+- 'Paper "MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases" was accepted by TOSEM.🎈' 
 
 # Education to show in About widget
 # education:
