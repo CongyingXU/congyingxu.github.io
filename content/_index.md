@@ -30,7 +30,7 @@ sections:
         exclude_featured: true
     design:
       columns: '1'
-      view: List # citation card
+      view: Compact # citation card
 
   - block: collection
     id: featured
