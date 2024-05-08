@@ -21,7 +21,7 @@ role: 2nd-year PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CASTLE Lab, The Hong Kong University of Science and Technology (HKUST)
+  - name: The Hong Kong University of Science and Technology (HKUST)
     url: http://castle.cse.ust.hk/castle/index.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,22 +30,23 @@ organizations:
 # Interests to show in About widget
 interests:
   - Metamorphic Testing
+  
   - AI Ethics
   - Software Security
   - Software Analytics 
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: The Hong Kong University of Science and Technology
-      year: 2022 - now
-    - course: MEng in Software Engineering
-      institution: Fudan University
-      year: 2019 - 2022
-    - course: BSc in Internet of Things
-      institution: Yanzhou Univeristy
-      year: 2015 - 2019
+# education:
+#   courses:
+#     - course: PhD in Computer Science
+#       institution: The Hong Kong University of Science and Technology
+#       year: 2022 - now
+#     - course: MEng in Software Engineering
+#       institution: Fudan University
+#       year: 2019 - 2022
+#     - course: BSc in Internet of Things
+#       institution: Yanzhou Univeristy
+#       year: 2015 - 2019
 # education:
 #   courses:
 #     - course: PhD Student at HKUST
@@ -115,33 +116,36 @@ Publications:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:cxubl@connect.ust.hk'
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=dnXxgFYAAAAJ&hl=en&oi=ao
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E8%81%AA%E9%A2%96-%E8%AE%B8-a56733268/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 [Updating]
-I am a second-year PhD student at HKUST, supervised by [Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/). I earned my Bachelor's degree from Yangzhou University, where I was guided by [Prof. Xiaobing SUN](https://chenbihuan.github.io/).
+Welcome! I am Congying XU, a second-year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree from Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://chenbihuan.github.io/) (College Dean).
 <!-- My research interests include metamorphic testing (MT), AI ethics, software security, and software data analytics. -->
 {style="text-align: justify;"}
