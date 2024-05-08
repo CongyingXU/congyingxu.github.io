@@ -185,7 +185,7 @@ sections:
     design:
       columns: '1'
       # view: card
-      citation
+      view: citation
 
 
   # - block: collection
