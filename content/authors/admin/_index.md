@@ -33,7 +33,6 @@ Metamorphic Testing.
   
   test to type sth.
 
-
   - AI Ethics
 
   test to type sth2
