@@ -24,10 +24,12 @@ sections:
     content:
       title: Publications [Updating]
       text: ''
-      filters:
-        folders:
+      folders:
           - publication
-        exclude_featured: true
+      # filters:
+      #   folders:
+      #     - publication
+      #   exclude_featured: true
       limit: 100 
     design:
       columns: '1'
