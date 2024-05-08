@@ -35,8 +35,6 @@ Metamorphic Testing.
 
 
   - AI Ethics
-        icon: magnifying-glass
-        icon_pack: fab
 
   test to type sth2
 
