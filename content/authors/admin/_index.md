@@ -29,7 +29,7 @@ organizations:
 
 # Interests to show in About widget
 # Research Interests:
-interets:
+interests:
   - Metamorphic Testing
   - AI Ethics
   - Software Security
