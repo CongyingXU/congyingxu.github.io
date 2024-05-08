@@ -1,7 +1,7 @@
 ---
 title: 'MULAPI: Improving API method recommendation with API usage location'
 authors:
-- Congying Xu
+- admin
 - Xiaobing Sun
 - Bin Li
 - Xintong Lu

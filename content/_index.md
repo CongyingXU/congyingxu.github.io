@@ -20,20 +20,21 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: collection
-    content:
-      title: Publications
-      # text: ''
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-      limit: 100 
-      # Choose how much pages you would like to display (0 = all pages)
-      count: 100
-    design:
-      columns: '1'
-      view: list # citation card
+  
+  # - block: collection
+  #   content:
+  #     title: Publications
+  #     # text: ''
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #     limit: 100 
+  #     # Choose how much pages you would like to display (0 = all pages)
+  #     count: 100
+  #   design:
+  #     columns: '1'
+  #     view: list # citation card
 
   - block: collection
     id: featured

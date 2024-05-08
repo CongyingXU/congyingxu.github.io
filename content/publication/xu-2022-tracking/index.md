@@ -1,7 +1,7 @@
 ---
 title: Tracking patches for open source software vulnerabilities
 authors:
-- Congying Xu
+- admin
 - Bihuan Chen
 - Chenhao Lu
 - Kaifeng Huang

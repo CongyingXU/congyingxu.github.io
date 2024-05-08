@@ -6,7 +6,7 @@ authors:
 - Bihuan Chen
 - Kaifeng Huang
 - Bowen Shi
-- Congying Xu
+- admin
 - Xin Peng
 - Yijian Wu
 - Yang Liu

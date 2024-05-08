@@ -3,7 +3,7 @@ title: Characterizing usages, updates and risks of third-party libraries in Java
 authors:
 - Kaifeng Huang
 - Bihuan Chen
-- Congying Xu
+- admin
 - Ying Wang
 - Bowen Shi
 - Xin Peng

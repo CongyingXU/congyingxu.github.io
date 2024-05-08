@@ -1,7 +1,7 @@
 ---
 title: 'MULAPI: A tool for API method and usage location recommendation'
 authors:
-- Congying Xu
+- admin
 - Bosen Min
 - Xiaobing Sun
 - Jiajun Hu

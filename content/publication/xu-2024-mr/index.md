@@ -2,7 +2,7 @@
 title: 'MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test
   Cases'
 authors:
-- Congying Xu
+- admin
 - Valerio Terragni
 - Hengcheng Zhu
 - Jiarong Wu
