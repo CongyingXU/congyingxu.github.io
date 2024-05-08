@@ -29,14 +29,14 @@ organizations:
 
 # Interests to show in About widget
 # Research Interests:
-interets
+interets:
   - Metamorphic Testing
   - AI Ethics
   - Software Security
   - Software Analytics 
 
-news
-- 'Paper "MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases" was accepted by TOSEM.🎈' 
+news:
+  - 'Paper "MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases" was accepted by TOSEM.' 
 
 # Education to show in About widget
 # education:
