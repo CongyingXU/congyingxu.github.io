@@ -30,10 +30,10 @@ organizations:
 # Interests to show in About widget
 # Research Interests:
 interests:
-  - Metamorphic Testing [ TOMSE'24](https://dl.acm.org/doi/abs/10.1145/3656340)
+  - Metamorphic Testing     [TOMSE'24](https://dl.acm.org/doi/abs/10.1145/3656340)
   - AI Ethics
-  - Software Supply-Chain Security [ FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICME'20](https://ieeexplore.ieee.org/abstract/document/9240619)
-  - Software Analytics [ JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840)
+  - Software Supply-Chain Security [FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICME'20](https://ieeexplore.ieee.org/abstract/document/9240619)
+  - Software Analytics      [JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840)
 
 news:
   - 'Paper "MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases" was accepted by TOSEM.' 
