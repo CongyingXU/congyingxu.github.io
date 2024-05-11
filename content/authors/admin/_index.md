@@ -30,7 +30,7 @@ organizations:
 # Interests to show in About widget
 # Research Interests:
 interests:
-  - Metamorphic Testing
+  - Metamorphic Testing ([TOMSE'24](https://dl.acm.org/doi/abs/10.1145/3656340))
   - AI Ethics
   - Software Security
   - Software Analytics 
