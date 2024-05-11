@@ -29,14 +29,15 @@ organizations:
 
 # Interests to show in About widget
 # Research Interests:
-interests:
-  - Metamorphic Testing     [TOMSE'24](https://dl.acm.org/doi/abs/10.1145/3656340)
-  - AI Ethics
-  - Software Supply-Chain Security [FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICME'20](https://ieeexplore.ieee.org/abstract/document/9240619)
-  - Software Analytics      [JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840)
+# interests:
+#   - Metamorphic Testing [TOMSE'24](https://dl.acm.org/doi/abs/10.1145/3656340)
+#   - AI Ethics
+#   - Software Supply-Chain Security [FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICSME'20🏆](https://ieeexplore.ieee.org/abstract/document/9240619)
+#   # [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8),
+#   - Software Analytics [ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840) 
 
-news:
-  - 'Paper "MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases" was accepted by TOSEM.' 
+# news:
+#   - 'Paper "MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases" was accepted by TOSEM.' 
 
 # Education to show in About widget
 # education:
@@ -137,6 +138,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am Congying XU, a second-year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree from Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://chenbihuan.github.io/) (College Dean).
-<!-- My research interests include metamorphic testing (MT), AI ethics, software security, and software data analytics. -->
+I am Congying XU, a second-year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). I am exploring research topics about **metamorphic testing** ([TOMSE'24](https://dl.acm.org/doi/abs/10.1145/3656340)) and  **AI systems**.
+
+Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree at Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://chenbihuan.github.io/) (College Dean). 
+During that time, I explored topics about software supply-chain security ([FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICSME'20🏆](https://ieeexplore.ieee.org/abstract/document/9240619)), and software data analytics ([ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840) ).
 {style="text-align: justify;"}
