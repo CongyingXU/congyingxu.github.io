@@ -30,10 +30,10 @@ organizations:
 # Interests to show in About widget
 # Research Interests:
 interests:
-  - Metamorphic Testing ([TOMSE'24](https://dl.acm.org/doi/abs/10.1145/3656340))
+  - Metamorphic Testing [TOMSE'24](https://dl.acm.org/doi/abs/10.1145/3656340)
   - AI Ethics
-  - Software Security
-  - Software Analytics 
+  - Software Supply-Chain Security [FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICSME'20 🏆](https://ieeexplore.ieee.org/abstract/document/9240619)
+  - Software Analytics [JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840)
 
 news:
   - 'Paper "MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases" was accepted by TOSEM.' 
@@ -137,6 +137,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-👋 Welcome! I am Congying XU, a second-year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree from Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://chenbihuan.github.io/) (College Dean).
+I am Congying XU, a second-year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow). Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree from Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://chenbihuan.github.io/) (College Dean).
 <!-- My research interests include metamorphic testing (MT), AI ethics, software security, and software data analytics. -->
 {style="text-align: justify;"}
