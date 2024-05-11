@@ -40,17 +40,17 @@ organizations:
 #   - 'Paper "MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases" was accepted by TOSEM.' 
 
 # Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Computer Science
-#       institution: The Hong Kong University of Science and Technology
-#       year: 2022 - now
-#     - course: MEng in Software Engineering
-#       institution: Fudan University
-#       year: 2019 - 2022
-#     - course: BSc in Internet of Things
-#       institution: Yanzhou Univeristy
-#       year: 2015 - 2019
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: The Hong Kong University of Science and Technology
+      year: 2022 - now
+    - course: MEng in Software Engineering
+      institution: Fudan University
+      year: 2019 - 2022
+    - course: BSc in Internet of Things
+      institution: Yanzhou Univeristy
+      year: 2015 - 2019
 # education:
 #   courses:
 #     - course: PhD Student at HKUST
