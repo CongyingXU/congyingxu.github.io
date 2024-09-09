@@ -40,20 +40,37 @@ organizations:
 #   - 'Paper "MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases" was accepted by TOSEM.' 
 
 # Education to show in About widget
+# education:
+#   courses:
+#     - course: Visiting scholar, supervisor: [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html)
+#       institution: Carnegie Mellon University
+#       year: (expected) 2024.01 - 2024.06
+#     - course: PhD in Computer Science, supervisor: [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow)
+#       institution: The Hong Kong University of Science and Technology
+#       year: 2022 - now
+#     - course: MEng in Software Engineering, supervisor: [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG]
+#       institution: Fudan University
+#       year: 2019 - 2022
+#     - course: BSc in Internet of Things, supervisor: [Prof. Xiaobing SUN](https://risame.github.io/sun/project.html)
+#       institution: Yanzhou Univeristy
+#       year: 2015 - 2019
+# Education to show in About widget
 education:
   courses:
-    - course: Visiting scholar, supervisor: [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html)
+    - course: "Visiting scholar, supervisor: [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html)"
       institution: Carnegie Mellon University
-      year: (expected) 2024.01 - 2024.06
-    - course: PhD in Computer Science, supervisor: [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow)
+      year: "(expected) 2024.01 - 2024.06"
+    - course: "PhD in Computer Science, supervisor: [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow)"
       institution: The Hong Kong University of Science and Technology
-      year: 2022 - now
-    - course: MEng in Software Engineering, supervisor: [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG]
+      year: "2022 - now"
+    - course: "MEng in Software Engineering, supervisor: [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG]"
       institution: Fudan University
-      year: 2019 - 2022
-    - course: BSc in Internet of Things, supervisor: [Prof. Xiaobing SUN](https://risame.github.io/sun/project.html)
-      institution: Yanzhou Univeristy
-      year: 2015 - 2019
+      year: "2019 - 2022"
+    - course: "BSc in Internet of Things, supervisor: [Prof. Xiaobing SUN](https://risame.github.io/sun/project.html)"
+      institution: Yanzhou University
+      year: "2015 - 2019"
+
+
 # education:
 #   courses:
 #     - course: PhD Student at HKUST
