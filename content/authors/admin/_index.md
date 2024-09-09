@@ -57,18 +57,19 @@ organizations:
 # Education to show in About widget
 education:
   courses:
-    - course: "Visiting scholar, supervisor: [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html)"
+    - course: "Visiting scholar, supervisor: <a href='https://www.cs.cmu.edu/~ckaestne/index.html'>Prof. Christian Kästner</a>"
       institution: Carnegie Mellon University
       year: "(expected) 2024.01 - 2024.06"
-    - course: "PhD in Computer Science, supervisor: [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow)"
+    - course: "PhD in Computer Science, supervisor: <a href='https://cse.hkust.edu.hk/~scc/'>Chair Prof. Shing-Chi CHEUNG</a> (IEEE Fellow)"
       institution: The Hong Kong University of Science and Technology
       year: "2022 - now"
-    - course: "MEng in Software Engineering, supervisor: [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG]"
+    - course: "MEng in Software Engineering, supervisor: <a href='https://chenbihuan.github.io/'>Prof. Bihuan CHEN</a> and Prof. Xin PENG"
       institution: Fudan University
       year: "2019 - 2022"
-    - course: "BSc in Internet of Things, supervisor: [Prof. Xiaobing SUN](https://risame.github.io/sun/project.html)"
+    - course: "BSc in Internet of Things, supervisor: <a href='https://risame.github.io/sun/project.html'>Prof. Xiaobing SUN</a>"
       institution: Yanzhou University
       year: "2015 - 2019"
+
 
 
 # education:
