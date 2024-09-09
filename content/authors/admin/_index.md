@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 2nd-year PhD Student
+role: 3rd-year PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,7 +59,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: The Hong Kong University of Science and Technology
-      year: "2022 - now"
+      year: "2022 - now (visiting student at CMU)"
       details:
         - Visiting Scholar at Carnegie Mellon University (expected 2024.01 - 2024.06)
     - course: MEng in Software Engineering
