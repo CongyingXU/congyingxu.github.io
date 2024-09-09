@@ -11,8 +11,8 @@ authors:
 publishDate: '2024-05-08T07:37:03.631361Z'
 publication_types:
 - article-journal
-publication: '*ACM Transactions on Software Engineering and Methodology* (TOSME 2024)'
-publication_short: "TOSME 2024"
+publication: '*ACM Transactions on Software Engineering and Methodology*'
+publication_short: "*TOSME 2024*"
 url_pdf: "https://dl.acm.org/doi/abs/10.1145/3656340"
 url_code: 'https://mr-scout.github.io/'
 ---
