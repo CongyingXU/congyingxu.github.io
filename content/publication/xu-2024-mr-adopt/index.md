@@ -2,7 +2,7 @@
 title: 'MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic
   Testing'
 authors:
-- admine
+- admin
 - Songqiang Chen
 - Jiarong Wu
 - Shing-Chi Cheung
