@@ -59,7 +59,8 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: The Hong Kong University of Science and Technology
-      year: "2022 - now (visiting student at CMU)"
+      year: 2022 - now | 
+        Visiting Scholar at Carnegie Mellon University, 2024
       details:
         - Visiting Scholar at Carnegie Mellon University (expected 2024.01 - 2024.06)
     - course: MEng in Software Engineering
