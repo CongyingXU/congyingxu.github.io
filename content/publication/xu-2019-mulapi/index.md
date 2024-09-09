@@ -13,4 +13,5 @@ publication_types:
 - paper-conference
 publication: '*2019 IEEE/ACM 41st international conference on software engineering:
   companion proceedings (ICSE-Companion)*'
+publication_short: "*ICSE Tool 2019*"
 ---

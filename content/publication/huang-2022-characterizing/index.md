@@ -14,4 +14,5 @@ publishDate: '2024-05-08T07:37:03.613482Z'
 publication_types:
 - article-journal
 publication: '*Empirical Software Engineering*'
+publication_short: "*EMSE 2022*"
 ---

@@ -11,4 +11,5 @@ publishDate: '2024-05-08T07:37:03.589295Z'
 publication_types:
 - article-journal
 publication: '*Journal of Systems and Software*'
+publication_short: "*JSS 2018*"
 ---

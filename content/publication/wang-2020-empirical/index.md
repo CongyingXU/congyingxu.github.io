@@ -16,4 +16,5 @@ publication_types:
 - paper-conference
 publication: '*2020 IEEE International Conference on Software Maintenance and Evolution
   (ICSME)*'
+publication_short: "*ICSME 2020*"
 ---

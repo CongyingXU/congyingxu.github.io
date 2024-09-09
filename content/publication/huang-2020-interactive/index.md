@@ -13,4 +13,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 28th ACM Joint Meeting on European Software Engineering
   Conference and Symposium on the Foundations of Software Engineering*'
+publication_short: "*FSE 2020*"
 ---
