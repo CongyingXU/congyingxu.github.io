@@ -7,8 +7,8 @@ cms_exclude: true # true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 1
-
+view: 4 # original: 1
+ 
 # Optional header image (relative to `static/media/` folder).
 banner:
   caption: ''
