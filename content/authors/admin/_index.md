@@ -60,10 +60,8 @@ education:
     - course: PhD in Computer Science
       institution: The Hong Kong University of Science and Technology
       year: "2022 - now"
-      subcourses:
-        - subcourse: Visiting scholar
-          institution: Carnegie Mellon University
-          year: "(expected) 2024.01 - 2024.06"
+      details:
+        - Visiting Scholar at Carnegie Mellon University (expected 2024.01 - 2024.06)
     - course: MEng in Software Engineering
       institution: Fudan University
       year: "2019 - 2022"
