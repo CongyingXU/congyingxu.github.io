@@ -1,4 +1,3 @@
-
 ### doc for this template
 https://docs.hugoblox.com/tutorial/resume/step-3/
 https://bootstrap.hugoblox.com/blocks/biography/
