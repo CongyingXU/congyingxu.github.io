@@ -57,7 +57,7 @@ organizations:
 
 education:
   courses:
-    - course: Visiting Sholar
+    - course: Visiting Scholar
       institution: Carnegie Mellon University
       year: 2025.01 -- present
     - course: PhD in Computer Science
