@@ -57,9 +57,9 @@ organizations:
 
 education:
   courses:
-    - course: Visisting Sholar
+    - course: Visiting Sholar
       institution: Carnegie Mellon University
-      year: 2025.1 -- present
+      year: 2025.01 -- present
     - course: PhD in Computer Science
       institution: The Hong Kong University of Science and Technology
       year: 2022 -- present
