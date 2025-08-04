@@ -52,7 +52,7 @@ organizations:
 #       institution: Fudan University
 #       year: "2019 - 2022"
 #     - course: BSc in Internet of Things, supervisor [Prof. Xiaobing SUN](https://risame.github.io/sun/project.html)
-#       institution: Yanzhou University
+#       institution: Yangzhou University
 #       year: "2015 - 2019"
 
 education:
@@ -70,7 +70,7 @@ education:
       institution: Fudan University
       year: "2019 -- 2022"
     - course: BSc in Internet of Things
-      institution: Yanzhou University
+      institution: Yangzhou University
       year: "2015 -- 2019"
 
 
@@ -83,7 +83,7 @@ education:
 #       year: 2022 - now
 #     - course: MEng at Fudan University
 #       year: 2019 - 2022
-#     - course: BSc at Yanzhou Univeristy
+#     - course: BSc at Yangzhou Univeristy
 #       year: 2015 - 2019
 
 
