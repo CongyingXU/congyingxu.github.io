@@ -25,7 +25,7 @@ I am exploring research topics about **LLM-Empowered Software Engineering** ([AS
 Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree at Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://risame.github.io/sun/index.html) (College Dean). <!-- During that time,  -->I explored topics about **software supply-chain** ([FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICSME'20 🏆](https://ieeexplore.ieee.org/abstract/document/9240619)), and **software analytics** ([ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840) ).
 
 
-**I am officially on the job market (2026)**, seeking positions of **Industry Research Scientist** or **PostDoc**. 
+✨ **I am officially on the job market (2026)**, seeking positions of **Industry Research Scientist** or **PostDoc**. 
 Here is my [CV](../../docs/CV_CongyingXU_PhD_HKUST.pdf).
 If you know of a postion that might be a match, or would like to hear more about my work, please feel free to reach out (📧: congying.xu@connect.ust.hk)!
 
