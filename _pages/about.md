@@ -29,13 +29,18 @@ Prior to this, I completed my Master's degree at Fudan University, supervised by
 Here is my [CV](../../docs/CV_CongyingXU_PhD_HKUST.pdf).
 If you know of a postion that might be a match, or would like to hear more about my work, please feel free to reach out (📧: congying.xu@connect.ust.hk)!
 
+# 📖 Educations
+- *2022.09 - now*, **PhD Student**, The Hong Kong University of Science and Technology.
+- *2025.01 - 2025.06*, **Visiting Scholar**, Carnegie Mellon University.
+- *2019.09 - 2022.06*, **Master Degree**, Fudan University.
+- *2015.09 - 2019.06*, **Bachelor Degree**, Yangzhou University.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
-# 📝 Publications 
+# 📝 Research Experience and Publications 
 
 <!-- - ``IEEE TSE 2023`` W. Gu, **Z. Lyu**, Y. Wang, H. Zhang, C. Gao, and Michael R. Lyu, *SPENCER: Self-Adaptive
 Model Distillation for Efficient Code Retrieval*, 2023 IEEE Transactions on Software Engineering(TSE), 2023. (Major Rivision) [[PDF](../../docs/SPENCER.pdf)] -->
@@ -93,12 +98,14 @@ Kästner,
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Overseas Research Award, HKUST. 
+- *2022.09 - (now)* Postgraduate Studentship (PGS), HKUST. 
+- *2019* National Scholarship, Ministry of Education of China. 
+- *2019* Outstanding Graduates of Yangzhou University. 
+- *2018* First Prize·Blue Bridge Cup National Programming Competition, Jiangsu (Java).
+- *2014* First Prize·Chemistry Olympiad Contest, Jiangsu Province. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
