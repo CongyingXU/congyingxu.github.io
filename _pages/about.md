@@ -40,7 +40,7 @@ If you know of a postion that might be a match, or would like to hear more about
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
-# 📝 Research Experience and Publications 
+# 📝 Publications 
 
 <!-- - ``IEEE TSE 2023`` W. Gu, **Z. Lyu**, Y. Wang, H. Zhang, C. Gao, and Michael R. Lyu, *SPENCER: Self-Adaptive
 Model Distillation for Efficient Code Retrieval*, 2023 IEEE Transactions on Software Engineering(TSE), 2023. (Major Rivision) [[PDF](../../docs/SPENCER.pdf)] -->
@@ -105,11 +105,20 @@ Kästner,
 - *2018* First Prize·Blue Bridge Cup National Programming Competition, Jiangsu (Java).
 - *2014* First Prize·Chemistry Olympiad Contest, Jiangsu Province. 
 
+# 🤝 Service
+- Reviewer: TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023
+- Co-Reviewer: FSE 2025, ASE 2025, ISSTA 2025
+- Volunteer: FSE 2025, ASE 2021
+
+# 🧑‍🏫 Teaching Experience
+- COMP4633 Competitive Programming in Cybersecurity (Fall 2025–26)
+- COMP3021 Java Programming (Fall 2024–25)
+- COMP1021 Introduction to Computer Science (Python Programming) (Fall 2023-24)
 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
