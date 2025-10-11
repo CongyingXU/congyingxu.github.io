@@ -26,7 +26,7 @@ Prior to this, I completed my Master's degree at Fudan University, supervised by
 
 
 ✨ **I am officially on the job market (2026)**, seeking positions of **Industry Research Scientist** or **PostDoc**. 
-Here is my [CV](../../docs/CV_CongyingXU_PhD_HKUST.pdf).
+Here is my [[CV](../../docs/CV_CongyingXU_PhD_HKUST.pdf)].
 If you know of a postion that might be a match, or would like to hear more about my work, please feel free to reach out (📧: congying.xu@connect.ust.hk)!
 
 # 📖 Educations
