@@ -101,12 +101,12 @@ Kästner,
 
 
 # 🎖 Honors and Awards
-- *2025* Overseas Research Award, HKUST. 
-- *2022.09 - (now)* Postgraduate Studentship (PGS), HKUST. 
-- *2019* National Scholarship, Ministry of Education of China. 
-- *2019* Outstanding Graduates of Yangzhou University. 
-- *2018* First Prize·Blue Bridge Cup National Programming Competition, Jiangsu (Java).
-- *2014* First Prize·Chemistry Olympiad Contest, Jiangsu Province. 
+- *2025*, Overseas Research Award, HKUST. 
+- *2022.09 - now*, Postgraduate Studentship (PGS), HKUST. 
+- *2019*, National Scholarship, Ministry of Education of China. 
+- *2019*, Outstanding Graduates of Yangzhou University. 
+- *2018*, First Prize·Blue Bridge Cup National Programming Competition, Jiangsu (Java).
+- *2014*, First Prize·Chemistry Olympiad Contest, Jiangsu Province. 
 
 # 🤝 Service
 - Reviewer: TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023
