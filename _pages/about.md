@@ -19,6 +19,7 @@ redirect_from:
 
 I am Congying (Alex) XU, a final year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow), 
 and a visiting scholar at CMU (Carnegie Mellon University), collaborating with [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html).
+
 I am exploring research topics about **LLM-Empowered Software Engineering** ([ASE'24](https://arxiv.org/pdf/2408.15815), [TOSEM'24](https://dl.acm.org/doi/abs/10.1145/3656340)) and  **Safe and Truthworthy AI Systemts**.
 <!-- I am exploring research topics about **LLM-empowered metamorphic testing** ([ASE'24](https://arxiv.org/pdf/2408.15815), [TOSEM'24](https://dl.acm.org/doi/abs/10.1145/3656340)) and  **AI system engineering**. -->
 
