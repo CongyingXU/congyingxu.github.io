@@ -40,11 +40,56 @@ If you know of a postion that might be a match, or would like to hear more about
 <!-- - ``IEEE TSE 2023`` W. Gu, **Z. Lyu**, Y. Wang, H. Zhang, C. Gao, and Michael R. Lyu, *SPENCER: Self-Adaptive
 Model Distillation for Efficient Code Retrieval*, 2023 IEEE Transactions on Software Engineering(TSE), 2023. (Major Rivision) [[PDF](../../docs/SPENCER.pdf)] -->
 
-### 2025
+### LLM Agent Safety
 
 - ``Under Review`` Aarya Doshi, Yining Hong, **Congying Xu**, Eunsuk Kang, Alexandros Kapravelos, Christian
 Kästner,
 *Towards Verifiably Safe Tool Use for LLM Agents*
+
+
+### LLM-Empowered Software Testing
+
+- ``Under Review`` **Congying Xu**, Songqiang Chen, Hengcheng Zhu, Jiarong Wu, Valerio Terragni, Shing-Chi Cheung, 
+*MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis*
+
+- ``ASE 2024`` **Congying Xu**, Songqiang Chen, Jiarong Wu, Shing-Chi Cheung, Valerio Terragni, Hengcheng Zhu, Jialun Cao, 
+*MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing*
+
+- ``TOSEM 2024`` **Congying Xu**, Valerio Terragni, Hengcheng Zhu, Jiarong Wu, Shing-Chi Cheung, 
+*MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases*
+
+### LLM-Empowered Code Translation and Generation
+
+- ``Under Review`` Songqiang Chen, **Congying Xu**, Jingyi Chen, Jialun Cao, Jiarong Wu, Shing-Chi Cheung, 
+*On Effective Semantic Translation for Code: A Study Based on Pseudocode*
+
+- ``TSE 2025`` Jiarong Wu, Yanyan Jiang, Lili Wei, **Congying Xu**, Shing-Chi Cheung, Chang Xu, 
+*Question Selection for Multi-Modal Code Search Synthesis using Probabilistic Version Spaces*
+
+
+### Software Supply Chain Security
+
+- ``FSE 2022`` **Congying Xu**, Bihuan Chen, Chenhao Lu, Kaifeng Huang, Xin Peng, Yang Liu, 
+*Tracking Patches for Open Source Software Vulnerabilities*
+
+- ``EMSE 2022`` Kaifeng Huang, Bihuan Chen, **Congying Xu**, Ying Wang, Bowen Shi, Xin Peng, Yijian Wu, Yang Liu, 
+*Characterizing usages, updates and risks of third-party libraries in Java projects*
+
+- 🏆 ``ICSME 2020`` Ying Wang, Bihuan Chen, Kaifeng Huang, Bowen Shi, **Congying Xu**, Xin Peng, Yijian Wu, Yang Liu, 
+*An Empirical Study of Usages, Updates and Risks of Third-Party Libraries in Java Projects.*
+
+- ``FSE 2020`` Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng, 
+*Interactive, Effort-aware Library Version Harmonization*
+
+### Recommendation System
+
+- ``ICSE-Demo 2019`` **Congying Xu**, Bosen Min, Xiaobing Sun, Jiajun Hu, Bin Li, Yucong Duan, 
+*MULAPI: A Tool for API Method and Usage Location Recommendation*
+
+- ``JSS 2018`` **Congying Xu**, Xiaobing Sun, Bin Li, Xintong Lu, Hongjing Guo, 
+*MULAPI: Improving API method recommendation with API usage location*
+
+
 
 
 # 🎖 Honors and Awards
