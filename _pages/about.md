@@ -36,8 +36,8 @@ If you know of a postion that might be a match, or would like to hear more about
 - *2015.09 - 2019.06*, **Bachelor Degree**, Yangzhou University.
 
 # 🔥 News
-- *2025.10*: &nbsp;✨ ✨ **I am officially on the job market (2026)**, seeking positions of **Industry Research Scientist** or **PostDoc**. 
-Here is my [[CV](../../docs/CV_CongyingXU_PhD_HKUST.pdf)].
+- *2025.10*: &nbsp;✨ **I am officially on the job market (2026)**, seeking positions of **Industry Research Scientist** or **PostDoc**. 
+Here is my [[CV](../docs/CV_CongyingXU_PhD_HKUST.pdf)].
 If you know of a postion that might be a match, or would like to hear more about my work, please feel free to reach out (📧: congying.xu@connect.ust.hk)!
 
 
