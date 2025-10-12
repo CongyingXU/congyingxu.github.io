@@ -107,3 +107,8 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Publications: continuous bracketed numbering across subsections */
+.pubs { counter-reset: pubitem; }
+.pubs li { counter-increment: pubitem; list-style-position: outside; }
+.pubs li::before { content: "[" counter(pubitem) "] "; font-weight: 600; }
