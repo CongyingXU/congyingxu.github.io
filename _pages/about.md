@@ -33,16 +33,15 @@ If you know of a postion that might be a match, or would like to hear more about
 
 
 # 🔥 News
-- *2025.10*: &nbsp;✨ **I am officially on the job market (2026)**, seeking positions of **Research Scientist (Industry)** or **PostDoc Researcher(Academia)**. 
-
+- *2025.10*: &nbsp;✨ **I am officially on the job market (2026)**, seeking positions of **Research Scientist (Industry)** or **PostDoc Researcher(Academia)**. <br>
 Here is my [[CV](../docs/CV_CongyingXU_PhD_HKUST.pdf)].
 If you know of a postion that might be a match, or would like to hear more about my work, please feel free to reach out (📧: congying.xu@connect.ust.hk)!
 
 # 📖 Educations
-- *2022.09 - now*, **PhD Student**, The Hong Kong University of Science and Technology.
-- *2025.01 - 2025.06*, **Visiting Scholar**, Carnegie Mellon University.
-- *2019.09 - 2022.06*, **Master Degree**, Fudan University.
-- *2015.09 - 2019.06*, **Bachelor Degree**, Yangzhou University.
+- *2022.09 - now*, PhD Student, **The Hong Kong University of Science and Technology**.
+- *2025.01 - 2025.06*, Visiting Scholar, **Carnegie Mellon University**.
+- *2019.09 - 2022.06*, Master Degree, **Fudan University**.
+- *2015.09 - 2019.06*, Bachelor Degree, **Yangzhou University**.
 
 # 📝 Publications 
 
@@ -51,13 +50,13 @@ Model Distillation for Efficient Code Retrieval*, 2023 IEEE Transactions on Soft
 
 ### LLM Agent Safety
 
-- ``Under Review`` *Towards Verifiably Safe Tool Use for LLM Agents* <br>
+- ``To Appear`` *Towards Verifiably Safe Tool Use for LLM Agents* <br>
 Aarya Doshi, Yining Hong, **Congying Xu**, Eunsuk Kang, Alexandros Kapravelos, Christian Kästner
 
 
 ### LLM-Empowered Software Testing
 
-- ``Under Review`` *MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis* <br>
+- ``To Appear`` *MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis* <br>
 **Congying Xu**, Songqiang Chen, Hengcheng Zhu, Jiarong Wu, Valerio Terragni, Shing-Chi Cheung 
 
 - ``ASE 2024`` *MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing* [[Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3696020)] <br>
@@ -68,7 +67,7 @@ Aarya Doshi, Yining Hong, **Congying Xu**, Eunsuk Kang, Alexandros Kapravelos, C
 
 ### LLM-Empowered Code Translation and Generation
 
-- ``Under Review`` *On Effective Semantic Translation for Code: A Study Based on Pseudocode* [[Paper](https://arxiv.org/pdf/2510.00920)] <br>
+- ``To Appear`` *On Effective Semantic Translation for Code: A Study Based on Pseudocode* [[Paper](https://arxiv.org/pdf/2510.00920)] <br>
 Songqiang Chen, **Congying Xu**, Jingyi Chen, Jialun Cao, Jiarong Wu, Shing-Chi Cheung
 
 - ``TSE 2025`` *Question Selection for Multi-Modal Code Search Synthesis using Probabilistic Version Spaces* [[Paper](https://ieeexplore.ieee.org/abstract/document/10979773)] <br>
