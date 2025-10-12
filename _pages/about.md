@@ -58,43 +58,43 @@ Aarya Doshi, Yining Hong, **Congying Xu**, Eunsuk Kang, Alexandros Kapravelos, C
 ### LLM-Empowered Software Testing
 
 - ``Under Review`` *MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis* <br>
-**Congying Xu**, Songqiang Chen, Hengcheng Zhu, Jiarong Wu, Valerio Terragni, Shing-Chi Cheung, 
+**Congying Xu**, Songqiang Chen, Hengcheng Zhu, Jiarong Wu, Valerio Terragni, Shing-Chi Cheung 
 
-- ``ASE 2024`` *MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing* [Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3696020) <br>
-**Congying Xu**, Songqiang Chen, Jiarong Wu, Shing-Chi Cheung, Valerio Terragni, Hengcheng Zhu, Jialun Cao, 
+- ``ASE 2024`` *MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing* [[Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3696020)] <br>
+**Congying Xu**, Songqiang Chen, Jiarong Wu, Shing-Chi Cheung, Valerio Terragni, Hengcheng Zhu, Jialun Cao 
 
-- ``TOSEM 2024`` *MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases* [Paper](https://dl.acm.org/doi/abs/10.1145/3656340) <br>
+- ``TOSEM 2024`` *MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases* [[Paper](https://dl.acm.org/doi/abs/10.1145/3656340)] <br>
 **Congying Xu**, Valerio Terragni, Hengcheng Zhu, Jiarong Wu, Shing-Chi Cheung
 
 ### LLM-Empowered Code Translation and Generation
 
-- ``Under Review`` *On Effective Semantic Translation for Code: A Study Based on Pseudocode* [Paper](https://arxiv.org/pdf/2510.00920) <br>
+- ``Under Review`` *On Effective Semantic Translation for Code: A Study Based on Pseudocode* [[Paper](https://arxiv.org/pdf/2510.00920)] <br>
 Songqiang Chen, **Congying Xu**, Jingyi Chen, Jialun Cao, Jiarong Wu, Shing-Chi Cheung
 
-- ``TSE 2025`` *Question Selection for Multi-Modal Code Search Synthesis using Probabilistic Version Spaces* [Paper](https://ieeexplore.ieee.org/abstract/document/10979773) <br>
+- ``TSE 2025`` *Question Selection for Multi-Modal Code Search Synthesis using Probabilistic Version Spaces* [[Paper](https://ieeexplore.ieee.org/abstract/document/10979773)] <br>
 Jiarong Wu, Yanyan Jiang, Lili Wei, **Congying Xu**, Shing-Chi Cheung, Chang Xu
 
 
 ### Software Supply Chain Security
 
-- ``FSE 2022`` *Tracking Patches for Open Source Software Vulnerabilities* [Paper](https://dl.acm.org/doi/abs/10.1145/3540250.3549125) <br>
+- ``FSE 2022`` *Tracking Patches for Open Source Software Vulnerabilities* [[Paper](https://dl.acm.org/doi/abs/10.1145/3540250.3549125)] <br>
 **Congying Xu**, Bihuan Chen, Chenhao Lu, Kaifeng Huang, Xin Peng, Yang Liu
 
-- ``EMSE 2022`` *Characterizing usages, updates and risks of third-party libraries in Java projects* [Paper](https://link.springer.com/article/10.1007/s10664-022-10131-8) <br>
+- ``EMSE 2022`` *Characterizing usages, updates and risks of third-party libraries in Java projects* [[Paper](https://link.springer.com/article/10.1007/s10664-022-10131-8)] <br>
 Kaifeng Huang, Bihuan Chen, **Congying Xu**, Ying Wang, Bowen Shi, Xin Peng, Yijian Wu, Yang Liu
 
-- 🏆 ``ICSME 2020`` *An Empirical Study of Usages, Updates and Risks of Third-Party Libraries in Java Projects.* [Paper](https://ieeexplore.ieee.org/abstract/document/9240619) <br>
+- 🏆 ``ICSME 2020`` *An Empirical Study of Usages, Updates and Risks of Third-Party Libraries in Java Projects.* [[Paper](https://ieeexplore.ieee.org/abstract/document/9240619)] <br>
 Ying Wang, Bihuan Chen, Kaifeng Huang, Bowen Shi, **Congying Xu**, Xin Peng, Yijian Wu, Yang Liu
 
-- ``FSE 2020`` *Interactive, Effort-aware Library Version Harmonization* [Paper](https://dl.acm.org/doi/abs/10.1145/3368089.3409689) <br>
+- ``FSE 2020`` *Interactive, Effort-aware Library Version Harmonization* [[Paper](https://dl.acm.org/doi/abs/10.1145/3368089.3409689)] <br>
 Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 
 ### Recommendation System
 
-- ``ICSE-Demo 2019`` *MULAPI: A Tool for API Method and Usage Location Recommendation* [Paper](https://ieeexplore.ieee.org/abstract/document/8802650) <br>
+- ``ICSE-Demo 2019`` *MULAPI: A Tool for API Method and Usage Location Recommendation* [[Paper](https://ieeexplore.ieee.org/abstract/document/8802650)] <br>
 **Congying Xu**, Bosen Min, Xiaobing Sun, Jiajun Hu, Bin Li, Yucong Duan
 
-- ``JSS 2018`` *MULAPI: Improving API method recommendation with API usage location* [Paper](https://www.sciencedirect.com/science/article/pii/S0164121218300840) <br>
+- ``JSS 2018`` *MULAPI: Improving API method recommendation with API usage location* [[Paper](https://www.sciencedirect.com/science/article/pii/S0164121218300840)] <br>
 **Congying Xu**, Xiaobing Sun, Bin Li, Xintong Lu, Hongjing Guo, 
 
 
