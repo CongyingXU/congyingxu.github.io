@@ -89,7 +89,7 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 
 ### Recommendation System
 
-- ``ICSE-Demo 2019`` *MULAPI: A Tool for API Method and Usage Location Recommendation* [[Paper](https://ieeexplore.ieee.org/abstract/document/8802650)] <br>
+- ``ICSE 2019`` *MULAPI: A Tool for API Method and Usage Location Recommendation* [[Paper](https://ieeexplore.ieee.org/abstract/document/8802650)] <br>
 **Congying Xu**, Bosen Min, Xiaobing Sun, Jiajun Hu, Bin Li, Yucong Duan
 
 - ``JSS 2018`` *MULAPI: Improving API method recommendation with API usage location* [[Paper](https://www.sciencedirect.com/science/article/pii/S0164121218300840)] <br>
