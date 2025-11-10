@@ -20,7 +20,7 @@ redirect_from:
 I am Congying (Alex) XU, a final year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow), 
 and a visiting scholar at CMU (Carnegie Mellon University), collaborating with [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html).
 
-I am exploring research topics about **LLM-Empowered Software Engineering** and  **Truthworthy AI Systems**.
+I am exploring research topics about **LLM-Empowered Software Engineering** and  **Trustworthy AI Systems**.
 <!-- I am exploring research topics about **LLM-empowered metamorphic testing** ([ASE'24](https://arxiv.org/pdf/2408.15815), [TOSEM'24](https://dl.acm.org/doi/abs/10.1145/3656340)) and  **AI system engineering**. -->
 
 Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree at Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://risame.github.io/sun/index.html) (College Dean). <!-- During that time,  -->I explored topics about **software supply-chain** ([FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICSME'20 🏆](https://ieeexplore.ieee.org/abstract/document/9240619)), and **software analytics** ([ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840) ).

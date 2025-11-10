@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Congying Xu's Homepage"
+title                    : "Congying Xu"
 description              : "The water will find its way | 青山见我应如是"
 repository               : "CongyingXU/congyingxu.github.io"
 google_scholar_stats_use_cdn : true
