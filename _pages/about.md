@@ -50,7 +50,7 @@ John's paper
 
 ### LLM Agent Safety
 
-- ``To Appear`` *Discovering Silent Failures in LLM Agents via Metamorphic Testing*
+<!-- - ``To Appear`` *Discovering Silent Failures in LLM Agents via Metamorphic Testing* -->
 - ``To Appear`` *Safe Tool Use for LLM Agents*
 
 
