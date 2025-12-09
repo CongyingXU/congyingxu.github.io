@@ -119,8 +119,7 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 - COMP1021 Introduction to Computer Science (Python Programming) (Fall 2023-24)
 
 # 💬 Schedule a Meeting
-I’d be happy to connect! Please book a time via my calendar:
-👉 https://calendar.notion.so/meet/congying_xu/971cm3rqc
+I’d be happy to connect! Please book a time via my [calendar](https://calendar.notion.so/meet/congying_xu/971cm3rqc) 👈. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
