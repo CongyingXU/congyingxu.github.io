@@ -48,16 +48,18 @@ John's paper
  -->
 
 
-### LLM Agent Safety
+### LLM Agent Safety and Relibility
 
-<!-- - ``To Appear`` *Discovering Silent Failures in LLM Agents via Metamorphic Testing* -->
-- ``To Appear`` *Safe Tool Use for LLM Agents*
+- ``To Appear`` *Discovering Silent Failures in LLM Agents via Metamorphic Testing*
+- ``ICSE-NIER 2026`` *Towards Verifiably Safe Tool Use for LLM Agents* <br>
+Aarya Doshi, Yining Hong, **Congying Xu**, Eunsuk Kang, Alexandros Kapravelos, Christian
+Kästner
 
 
 
 ### LLM-Empowered Software Testing
 
-- ``To Appear`` *Automated Metamorphic Test Generation* <br>
+- ``To Appear`` *MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis* <br>
 **Congying Xu**, Songqiang Chen, Hengcheng Zhu, Jiarong Wu, Valerio Terragni, Shing-Chi Cheung 
 
 - ``ASE 2024`` *MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing* [[Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3696020)] <br>
@@ -68,7 +70,7 @@ John's paper
 
 ### LLM-Empowered Code Translation and Generation
 
-- ``To Appear`` *On Effective Semantic Translation for Code: A Study Based on Pseudocode* [[Paper](https://arxiv.org/pdf/2510.00920)] <br>
+- ``TOSEM 2026 (Minor-Revision)`` *On Effective Semantic Translation for Code: A Study Based on Pseudocode* [[Paper](https://arxiv.org/pdf/2510.00920)] <br>
 Songqiang Chen, **Congying Xu**, Jingyi Chen, Jialun Cao, Jiarong Wu, Shing-Chi Cheung
 
 - ``TSE 2025`` *Question Selection for Multi-Modal Code Search Synthesis using Probabilistic Version Spaces* [[Paper](https://ieeexplore.ieee.org/abstract/document/10979773)] <br>
