@@ -111,8 +111,8 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 - *2014*, First Prize·Chemistry Olympiad Contest, Jiangsu Province. 
 
 # 🤝 Service
-- Reviewer: TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023
-- Co-Reviewer: FSE 2025, ASE 2025, ISSTA 2025
+- Reviewer: AE@ICSE 2024, TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023
+<!-- - Co-Reviewer: FSE 2025, ASE 2025, ISSTA 2025 -->
 - Volunteer: FSE 2025, ASE 2021
 
 # 🧑‍🏫 Teaching Experience
