@@ -35,7 +35,7 @@ If you know of a postion that might be a match, or would like to hear more about
 
 # 📖 Educations
 - *2022.09 - now*, PhD Student, **The Hong Kong University of Science and Technology**.
-  * Thesis: [Automated and Effective Metamorphic Testing: Relation Discovery, Deduction, and Generation](../docs/Thesis.pdf)
+  <!-- * Thesis: [Automated and Effective Metamorphic Testing: Relation Discovery, Deduction, and Generation](../docs/Thesis.pdf) -->
 - *2025.01 - 2025.06*, Visiting Scholar, **Carnegie Mellon University**.
 - *2019.09 - 2022.06*, Master Degree, **Fudan University**.
 - *2015.09 - 2019.06*, Bachelor Degree, **Yangzhou University**.
