@@ -51,7 +51,7 @@ John's paper
 ### LLM Agent Safety and Relibility
 
 <!-- - ``To Appear`` *Discovering Silent Failures in LLM Agents via Metamorphic Testing* -->
-- ``ICSE-NIER 2026`` *Towards Verifiably Safe Tool Use for LLM Agents* <br>
+- ``ICSE-NIER 2026`` *Towards Verifiably Safe Tool Use for LLM Agents* [[To appear]](https://conf.researchr.org/details/icse-2026/icse-2026-nier/41/Towards-Verifiably-Safe-Tool-Use-for-LLM-Agents) <br>
 Aarya Doshi, Yining Hong, **Congying Xu**, Eunsuk Kang, Alexandros Kapravelos, Christian
 Kästner
 
@@ -68,9 +68,12 @@ Kästner
 - ``TOSEM 2024`` *MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases* [[Paper](https://dl.acm.org/doi/abs/10.1145/3656340)] <br>
 **Congying Xu**, Valerio Terragni, Hengcheng Zhu, Jiarong Wu, Shing-Chi Cheung
 
+- ``TOSEM 2026`` *Less Is More: Failing Test Generation with Large Language Models* [[To Appear]]() <br>
+Tsz-On Li, Xiaochuan Yan, Wenxi Zong, Yibo Wang, Haoye Tian, **Congying Xu**, Ying Wang, Shing-Chi Cheung, and Jeff Kramer
+
 ### LLM-Empowered Code Translation and Generation
 
-- ``To Appear`` *On Effective Semantic Translation for Code: A Study Based on Pseudocode* [[Paper](https://arxiv.org/pdf/2510.00920)] <br>
+- ``TOSEM 2026`` *On Effective Semantic Translation for Code: A Study Based on Pseudocode* [[Paper](https://arxiv.org/pdf/2510.00920)] <br>
 Songqiang Chen, **Congying Xu**, Jingyi Chen, Jialun Cao, Jiarong Wu, Shing-Chi Cheung
 
 - ``TSE 2025`` *Question Selection for Multi-Modal Code Search Synthesis using Probabilistic Version Spaces* [[Paper](https://ieeexplore.ieee.org/abstract/document/10979773)] <br>
