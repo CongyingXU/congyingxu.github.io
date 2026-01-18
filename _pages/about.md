@@ -18,27 +18,20 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am Congying (Alex) XU, a final year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow), 
-and a visiting scholar at CMU (Carnegie Mellon University), collaborating with [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html).
-
-I am exploring research topics about **LLM-Empowered Software Engineering** and  **Trustworthy AI Systems**.
+and a visiting scholar at CMU (Carnegie Mellon University), collaborating with [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html). I am exploring research topics about **LLM-Empowered Software Engineering** and  **Trustworthy AI Systems**.
 <!-- I am exploring research topics about **LLM-empowered metamorphic testing** ([ASE'24](https://arxiv.org/pdf/2408.15815), [TOSEM'24](https://dl.acm.org/doi/abs/10.1145/3656340)) and  **AI system engineering**. -->
 
-Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree at Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://risame.github.io/sun/index.html) (College Dean). <!-- During that time,  -->I explored topics about **software supply-chain** ([FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICSME'20 🏆](https://ieeexplore.ieee.org/abstract/document/9240619)), and **software analytics** ([ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840) ).
+<!-- Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree at Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://risame.github.io/sun/index.html) (College Dean). <!-- During that time,  -->I explored topics about **software supply-chain** ([FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICSME'20 🏆](https://ieeexplore.ieee.org/abstract/document/9240619)), and **software analytics** ([ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840) ). -->
 
 
 
 
 # 🔥 News
-- *2025.10*: &nbsp;✨ **I am officially on the job market (2026)**, seeking positions of **Research Scientist (Industry)** or **PostDoc Researcher(Academia)**. <br>
+- ✨ **I am officially on the job market (2026)**, seeking positions of **Research Scientist (Industry)** or **PostDoc Researcher(Academia)**. <br>
 Here is my [[CV](../docs/CV_CongyingXU_PhD_HKUST.pdf)].
 If you know of a postion that might be a match, or would like to hear more about my work, please feel free to reach out (📧: congying.xu@connect.ust.hk)!
 
-# 📖 Educations
-- *2022.09 - now*, PhD Student, **The Hong Kong University of Science and Technology**.
-  <!-- * Thesis: [Automated and Effective Metamorphic Testing: Relation Discovery, Deduction, and Generation](../docs/Thesis.pdf) -->
-- *2025.01 - 2025.06*, Visiting Scholar, **Carnegie Mellon University**.
-- *2019.09 - 2022.06*, Master Degree, **Fudan University**.
-- *2015.09 - 2019.06*, Bachelor Degree, **Yangzhou University**.
+- 2026.01:  🎉🎉 Two papers "Can Emulating Semantic Translation Help LLMs with CodeTranslation? A Study Based on Pseudocode" [[Paper](https://arxiv.org/pdf/2510.00920)], and "Less Is More: Failing Test Generation with Large Language Models" have been accepted by TOSEM 2026!
 
 
 # 📝 Projects and Publications 
@@ -103,7 +96,13 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 **Congying Xu**, Xiaobing Sun, Bin Li, Xintong Lu, Hongjing Guo, 
 
 
+# Invited Talks
+- *2025.12*, **Foundations of Software Testing** in APSEC 2025, Macao SAR. 
 
+# 🤝 Service
+- Reviewer: AE@ICSE 2026, TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023
+- Shadow-Reviewer: FSE 2025, ASE 2025, ISSTA 2025
+- Volunteer: FSE 2025, ASE 2021
 
 # 🎖 Honors and Awards
 - *2025*, Overseas Research Award, HKUST. 
@@ -113,22 +112,28 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 - *2018*, First Prize·Blue Bridge Cup National Programming Competition, Jiangsu (Java).
 - *2014*, First Prize·Chemistry Olympiad Contest, Jiangsu Province. 
 
-# 🤝 Service
-- Reviewer: AE@ICSE 2024, TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023
-<!-- - Co-Reviewer: FSE 2025, ASE 2025, ISSTA 2025 -->
-- Volunteer: FSE 2025, ASE 2021
+# 📖 Educations
+- *2022.09 - now*, PhD Student, **The Hong Kong University of Science and Technology**.
+  <!-- * Thesis: [Automated and Effective Metamorphic Testing: Relation Discovery, Deduction, and Generation](../docs/Thesis.pdf) -->
+- *2025.01 - 2025.06*, Visiting Scholar, **Carnegie Mellon University**.
+- *2019.09 - 2022.06*, Master Degree, **Fudan University**.
+- *2015.09 - 2019.06*, Bachelor Degree, **Yangzhou University**.
 
-# 🧑‍🏫 Teaching Experience
+# 📖 Teaching Experience
 - COMP4633 Competitive Programming in Cybersecurity (Fall 2025–26)
 - COMP3021 Java Programming (Fall 2024–25)
 - COMP1021 Introduction to Computer Science (Python Programming) (Fall 2023-24)
 
-# 💬 Schedule a Meeting
-I’d be happy to connect! Please book a time via my [calendar](https://calendar.notion.so/meet/congying_xu/971cm3rqc) 👈. 
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# Schedule a Meeting
+I’d be happy to connect! Please book a time via my [calendar](https://calendar.notion.so/meet/congying_xu/971cm3rqc) 👈. 
+
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
