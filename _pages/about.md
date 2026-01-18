@@ -31,7 +31,9 @@ and a visiting scholar at CMU (Carnegie Mellon University), collaborating with [
 Here is my [[CV](../docs/CV_CongyingXU_PhD_HKUST.pdf)].
 If you know of a postion that might be a match, or would like to hear more about my work, please feel free to reach out (📧: congying.xu@connect.ust.hk)!
 
-- 2026.01:  🎉🎉 Two papers "Can Emulating Semantic Translation Help LLMs with CodeTranslation? A Study Based on Pseudocode" [[Paper](https://arxiv.org/pdf/2510.00920)], and "Less Is More: Failing Test Generation with Large Language Models" have been accepted by TOSEM 2026!
+- 2026.01: 🎉 Two papers "Can Emulating Semantic Translation Help LLMs with CodeTranslation? A Study Based on Pseudocode" [[Paper](https://arxiv.org/pdf/2510.00920)], and "Less Is More: Failing Test Generation with Large Language Models" have been accepted by TOSEM 2026!
+
+- 2025.12: 🎉 One paper "Towards Verifiably Safe Tool Use for LLM Agents" has been accepted by ICSE-NIER 2026!
 
 
 # 📝 Projects and Publications 
@@ -125,14 +127,12 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 - COMP1021 Introduction to Computer Science (Python Programming) (Fall 2023-24)
 
 
+# Schedule a Meeting
+I’d be happy to connect! Please book a time via my [calendar](https://calendar.notion.so/meet/congying_xu/971cm3rqc) 👈. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# Schedule a Meeting
-I’d be happy to connect! Please book a time via my [calendar](https://calendar.notion.so/meet/congying_xu/971cm3rqc) 👈. 
-
 
 
 # 💻 Internships
