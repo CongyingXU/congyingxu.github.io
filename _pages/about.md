@@ -43,7 +43,7 @@ John's paper
  -->
 
 
-### LLM Agent Safety and Relibility
+### LLM Agent Safety and Reliability
 
 <!-- - ``To Appear`` *Discovering Silent Failures in LLM Agents via Metamorphic Testing* -->
 - ``ICSE-NIER 2026`` *Towards Verifiably Safe Tool Use for LLM Agents* [[To appear]](https://conf.researchr.org/details/icse-2026/icse-2026-nier/41/Towards-Verifiably-Safe-Tool-Use-for-LLM-Agents) <br>
