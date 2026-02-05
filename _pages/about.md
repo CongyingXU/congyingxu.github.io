@@ -31,6 +31,8 @@ and a visiting scholar at CMU (Carnegie Mellon University), collaborating with [
 Here is my [[CV](../docs/CV_CongyingXU_PhD_HKUST.pdf)].
 If you know of a postion that might be a match, or would like to hear more about my work, please feel free to reach out (📧: congying.xu@connect.ust.hk)!
 
+- 2026.02: I’m honored to serve as a Program Committee member for ICSE 2027. Looking forward to great submissions. Please consider submitting your work!
+
 - 2026.01: 🎉 Two papers "Can Emulating Semantic Translation Help LLMs with CodeTranslation? A Study Based on Pseudocode" [[Paper](https://arxiv.org/pdf/2510.00920)], and "Less Is More: Failing Test Generation with Large Language Models" have been accepted by TOSEM 2026!
 
 - 2025.12: 🎉 One paper "Towards Verifiably Safe Tool Use for LLM Agents" has been accepted by ICSE-NIER 2026!
@@ -102,7 +104,7 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 - *2025.12*, **Foundations of Software Testing** in APSEC 2025, Macao SAR. 
 
 # 🤝 Service
-- Reviewer: AE@ICSE 2026, TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023
+- Reviewer: ICSE 2027, AE@ICSE 2026, TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023
 - Shadow-Reviewer: FSE 2025, ASE 2025, ISSTA 2025
 - Volunteer: FSE 2025, ASE 2021
 
