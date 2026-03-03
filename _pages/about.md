@@ -31,6 +31,8 @@ and a visiting scholar at CMU (Carnegie Mellon University), collaborating with [
 Here is my [[CV](../docs/CV_CongyingXU_PhD_HKUST.pdf)].
 If you know of a postion that might be a match, or would like to hear more about my work, please feel free to reach out (📧: congying.xu@connect.ust.hk)!
 
+- 2026.02: 🎉 I successfully defended my PhD thesis.
+
 - 2026.02: I’m honored to serve as a Program Committee member for ICSE 2027. Looking forward to great submissions. Please consider submitting your work!
 
 - 2026.01: 🎉 Two papers "Can Emulating Semantic Translation Help LLMs with CodeTranslation? A Study Based on Pseudocode" [[Paper](https://arxiv.org/pdf/2510.00920)], and "Less Is More: Failing Test Generation with Large Language Models" have been accepted by TOSEM 2026!
