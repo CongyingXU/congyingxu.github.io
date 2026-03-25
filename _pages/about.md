@@ -31,6 +31,8 @@ and a visiting scholar at CMU (Carnegie Mellon University), collaborating with [
 Here is my [[CV](../docs/CV_CongyingXU_PhD_HKUST.pdf)].
 If you know of a postion that might be a match, or would like to hear more about my work, please feel free to reach out (📧: congying.xu@connect.ust.hk)!
 
+- 2026.03: 🎉 One paper "MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis" has been accepted by FSE 2026!
+
 - 2026.02: 🎉 I successfully defended my PhD thesis.
 
 - 2026.02: I’m honored to serve as a Program Committee member for ICSE 2027. Looking forward to great submissions. Please consider submitting your work!
@@ -58,8 +60,8 @@ Kästner
 
 ### LLM-Empowered Software Testing
 
-<!-- - ``To Appear`` *MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis* <br>
-**Congying Xu**, Songqiang Chen, Hengcheng Zhu, Jiarong Wu, Valerio Terragni, Shing-Chi Cheung  -->
+- ``FSE 2026`` *MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis* [[To appear]]()<br>
+**Congying Xu**, Songqiang Chen, Hengcheng Zhu, Jiarong Wu, Valerio Terragni, Shing-Chi Cheung 
 
 - ``ASE 2024`` *MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing* [[Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3696020)] <br>
 **Congying Xu**, Songqiang Chen, Jiarong Wu, Shing-Chi Cheung, Valerio Terragni, Hengcheng Zhu, Jialun Cao 
