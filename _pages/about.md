@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Congying (Alex) XU, a final year PhD student at HKUST, supervised by [Chair Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow), 
-and a visiting scholar at CMU (Carnegie Mellon University), collaborating with [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html). I am exploring research topics about **LLM-Empowered Software Engineering** and  **Trustworthy AI Systems**.
+I am Congying (Alex) XU, a Postdoctoral Researcher at HKUST, working with [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I obtained my PhD from HKUST, supervised by [Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow, Chair Professor). 
+I was a visiting scholar at CMU (Carnegie Mellon University), collaborating with [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html). I am exploring research topics about **AI Coding** and  **Trustworthy AI Systems**.
 <!-- I am exploring research topics about **LLM-empowered metamorphic testing** ([ASE'24](https://arxiv.org/pdf/2408.15815), [TOSEM'24](https://dl.acm.org/doi/abs/10.1145/3656340)) and  **AI system engineering**. -->
 
 <!-- Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree at Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://risame.github.io/sun/index.html) (College Dean). During that time, I explored topics about **software supply-chain** ([FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICSME'20 🏆](https://ieeexplore.ieee.org/abstract/document/9240619)), and **software analytics** ([ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840) ). -->
@@ -27,7 +27,7 @@ and a visiting scholar at CMU (Carnegie Mellon University), collaborating with [
 
 
 # 🔥 News
-- ✨ **I am officially on the job market (2026)**, seeking positions of **Research Scientist (Industry)** or **PostDoc Researcher(Academia)**. <br>
+- ✨ **I am officially on the job market (2026)**, seeking positions of **Research Scientist (Industry)** or **Research Faculty (Academia)**. <br>
 Here is my [[CV](../docs/CV_CongyingXU_PhD_HKUST.pdf)].
 If you know of a postion that might be a match, or would like to hear more about my work, please feel free to reach out (📧: congying.xu@connect.ust.hk)!
 
@@ -43,11 +43,6 @@ If you know of a postion that might be a match, or would like to hear more about
 
 
 # 📝 Projects and Publications 
-
-<!-- TODO: 
-John's paper
- -->
-
 
 ### LLM Agent Safety and Reliability
 
@@ -105,7 +100,9 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 
 
 # Invited Talks
-- *2025.12*, **Foundations of Software Testing** in APSEC 2025, Macao SAR. 
+- *2025.12*, **Foundations of Software Testing** at APSEC 2025, Macao SAR. 
+- *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at CodeSisdom Group, Fudan University, Shanghai. 
+- *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at CodeSisdom Group, Yangzhou University, Yangzhou. 
 
 # 🤝 Service
 - Reviewer: ICSE 2027, AE@ICSE 2026, TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023
