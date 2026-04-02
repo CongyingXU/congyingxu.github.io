@@ -18,7 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am Congying (Alex) XU, a Postdoctoral Researcher at HKUST, working with [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I obtained my PhD from HKUST, supervised by [Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow, Chair Professor). 
-I was a visiting scholar at CMU (Carnegie Mellon University), collaborating with [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html). I am exploring research topics about **AI Coding** and  **Trustworthy AI Systems**.
+I was a visiting scholar at CMU (Carnegie Mellon University), collaborating with [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html). 
+
+I am exploring research topics about **AI Coding** and  **Trustworthy AI Systems**. I have published papers in leading software engineering venues, including ICSE, FSE, ASE, TOSEM, TSE, EMSE, etc. 
+I serve the research community as a Program Committee member of ICSE 2027, and have contributed as a (shadow) reviewer or artifact evaluation committee member for venues such as FSE, ASE, ISSTA, ISSRE, TOSEM, and ASEJ. My work has received recognition including the IEEE TCSE Distinguished Paper Award (2020), and the CCF ChinaSoft Prototype Competition Second Prize (2020). 
+<!-- Some of my research outcomes have demonstrated practical impact in industry, including supporting deployments or applications in HUA and other organizations. -->
+
+
 <!-- I am exploring research topics about **LLM-empowered metamorphic testing** ([ASE'24](https://arxiv.org/pdf/2408.15815), [TOSEM'24](https://dl.acm.org/doi/abs/10.1145/3656340)) and  **AI system engineering**. -->
 
 <!-- Prior to this, I completed my Master's degree at Fudan University, supervised by [Prof. Bihuan CHEN](https://chenbihuan.github.io/) and [Prof. Xin PENG](https://cspengxin.github.io/) (College Deputy Dean). I completed my Bachelor's degree at Yangzhou University, where I was supervised by [Prof. Xiaobing SUN](https://risame.github.io/sun/index.html) (College Dean). During that time, I explored topics about **software supply-chain** ([FSE'22](https://dl.acm.org/doi/abs/10.1145/3540250.3549125), [EMSE'22](https://link.springer.com/article/10.1007/s10664-022-10131-8), [FSE'20](https://dl.acm.org/doi/abs/10.1145/3368089.3409689), [ICSME'20 🏆](https://ieeexplore.ieee.org/abstract/document/9240619)), and **software analytics** ([ICSE'19-tool](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840), [JSS'18](https://www.sciencedirect.com/science/article/abs/pii/S0164121218300840) ). -->
@@ -40,6 +46,14 @@ If you know of a postion that might be a match, or would like to hear more about
 - 2026.01: 🎉 Two papers "Can Emulating Semantic Translation Help LLMs with CodeTranslation? A Study Based on Pseudocode" [[Paper](https://arxiv.org/pdf/2510.00920)], and "Less Is More: Failing Test Generation with Large Language Models" have been accepted by TOSEM 2026!
 
 - 2025.12: 🎉 One paper "Towards Verifiably Safe Tool Use for LLM Agents" has been accepted by ICSE-NIER 2026!
+
+# 📖 Working/Education Experience
+- *2026.03 - now*, Postdoctoral Researcher, **The Hong Kong University of Science and Technology**
+- *2022.09 - 2026.03*, PhD Student, **The Hong Kong University of Science and Technology**.
+  <!-- * Thesis: [Automated and Effective Metamorphic Testing: Relation Discovery, Deduction, and Generation](../docs/Thesis.pdf) -->
+- *2025.01 - 2025.06*, Visiting Scholar, **Carnegie Mellon University**.
+- *2019.09 - 2022.06*, Master Degree, **Fudan University**.
+- *2015.09 - 2019.06*, Bachelor Degree, **Yangzhou University**.
 
 
 # 📝 Projects and Publications 
@@ -101,8 +115,8 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 
 # Invited Talks
 - *2025.12*, **Foundations of Software Testing** at APSEC 2025, Macao SAR. 
-- *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at CodeSisdom Group, Fudan University, Shanghai. 
-- *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at Yangzhou University, Yangzhou. 
+- *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at Fudan University (Shanghai) and Yangzhou University (Yangzhou). 
+<!-- - *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at Yangzhou University, Yangzhou.  -->
 
 # 🤝 Service
 ### Peer Review (Journals)
@@ -110,31 +124,22 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 - Reviewer: Automated Software Engineering (ASEJ), since 2025 
 <!-- - Reviewer: IEEE Transactions on Software Engineering (TSE), since 2024 -->
 <!-- ICSE 2027, AE@ICSE 2026, TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023 -->
-
 ### Peer Review (Conferences)
 - PC memeber: ICSE 2027
 - Shadow PC: FSE 2025, ASE 2025, ISSTA 2025
-
 ###  Artifact Evaluation
 - Reviewer: ICSE 2026, ISSRE 2024, ISSRE 2023
-
 ### Conference Organization
 - Volunteer: FSE 2025, ASE 2021
 
 # 🎖 Honors and Awards
 - *2025*, Overseas Research Award, HKUST. 
-- *2022.09 - now*, Postgraduate Studentship (PGS), HKUST. 
+- *2022.09 - 2026.03*, Postgraduate Studentship (PGS), HKUST. 
 - *2019*, National Scholarship, Ministry of Education of China. 
 - *2019*, Outstanding Graduates of Yangzhou University. 
 - *2018*, First Prize·Blue Bridge Cup National Programming Competition, Jiangsu (Java).
 - *2014*, First Prize·Chemistry Olympiad Contest, Jiangsu Province. 
 
-# 📖 Educations
-- *2022.09 - now*, PhD Student, **The Hong Kong University of Science and Technology**.
-  <!-- * Thesis: [Automated and Effective Metamorphic Testing: Relation Discovery, Deduction, and Generation](../docs/Thesis.pdf) -->
-- *2025.01 - 2025.06*, Visiting Scholar, **Carnegie Mellon University**.
-- *2019.09 - 2022.06*, Master Degree, **Fudan University**.
-- *2015.09 - 2019.06*, Bachelor Degree, **Yangzhou University**.
 
 # 📖 Teaching Experience
 - COMP4633 Competitive Programming in Cybersecurity (Fall 2025–26)
