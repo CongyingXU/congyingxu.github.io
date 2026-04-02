@@ -49,7 +49,7 @@ If you know of a postion that might be a match, or would like to hear more about
 
 # 📖 Working/Education Experience
 - *2026.03 - now*, Postdoctoral Researcher, **The Hong Kong University of Science and Technology**
-- *2022.09 - 2026.03*, PhD Student, **The Hong Kong University of Science and Technology**.
+- *2022.09 - 2026.03*, PhD Degree, **The Hong Kong University of Science and Technology**.
   <!-- * Thesis: [Automated and Effective Metamorphic Testing: Relation Discovery, Deduction, and Generation](../docs/Thesis.pdf) -->
 - *2025.01 - 2025.06*, Visiting Scholar, **Carnegie Mellon University**.
 - *2019.09 - 2022.06*, Master Degree, **Fudan University**.
@@ -124,11 +124,14 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 - Reviewer: Automated Software Engineering (ASEJ), since 2025 
 <!-- - Reviewer: IEEE Transactions on Software Engineering (TSE), since 2024 -->
 <!-- ICSE 2027, AE@ICSE 2026, TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023 -->
+
 ### Peer Review (Conferences)
 - PC memeber: ICSE 2027
 - Shadow PC: FSE 2025, ASE 2025, ISSTA 2025
+
 ###  Artifact Evaluation
 - Reviewer: ICSE 2026, ISSRE 2024, ISSRE 2023
+
 ### Conference Organization
 - Volunteer: FSE 2025, ASE 2021
 
