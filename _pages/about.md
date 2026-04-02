@@ -105,8 +105,20 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 - *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at Yangzhou University, Yangzhou. 
 
 # 🤝 Service
-- Reviewer: ICSE 2027, AE@ICSE 2026, TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023
-- Shadow-Reviewer: FSE 2025, ASE 2025, ISSTA 2025
+### Peer Review (Journals)
+- Reviewer: ACM Transactions on Software Engineering and Methodology (TOSEM), since 2025 
+- Reviewer: Automated Software Engineering (ASEJ), since 2025 
+<!-- - Reviewer: IEEE Transactions on Software Engineering (TSE), since 2024 -->
+<!-- ICSE 2027, AE@ICSE 2026, TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023 -->
+
+### Peer Review (Conferences)
+- PC memeber: ICSE 2027
+- Shadow PC: FSE 2025, ASE 2025, ISSTA 2025
+
+###  Artifact Evaluation
+- Reviewer: ICSE 2026, ISSRE 2024, ISSRE 2023
+
+### Conference Organization
 - Volunteer: FSE 2025, ASE 2021
 
 # 🎖 Honors and Awards
