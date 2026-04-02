@@ -113,7 +113,7 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 **Congying Xu**, Xiaobing Sun, Bin Li, Xintong Lu, Hongjing Guo, 
 
 
-# Invited Talks
+# 💬 Invited Talks
 - *2025.12*, **Foundations of Software Testing** at APSEC 2025, Macao SAR. 
 - *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at Fudan University (Shanghai) and Yangzhou University (Yangzhou). 
 <!-- - *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at Yangzhou University, Yangzhou.  -->
