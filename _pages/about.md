@@ -102,7 +102,7 @@ Kaifeng Huang, Bihuan Chen, Bowen Shi, Ying Wang, **Congying Xu**, Xin Peng
 # Invited Talks
 - *2025.12*, **Foundations of Software Testing** at APSEC 2025, Macao SAR. 
 - *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at CodeSisdom Group, Fudan University, Shanghai. 
-- *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at CodeSisdom Group, Yangzhou University, Yangzhou. 
+- *2024.07*, **Advancements in Metamorphic Testing: Automated Deduction and Synthesis of Metamorphic Relations** at Yangzhou University, Yangzhou. 
 
 # 🤝 Service
 - Reviewer: ICSE 2027, AE@ICSE 2026, TOSEM 2025, ASEJ 2025, AE@ISSRE 2024, AE@ISSRE 2023
