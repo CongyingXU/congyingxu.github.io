@@ -69,7 +69,7 @@ Kästner
 
 ### LLM-Empowered Software Testing
 
-- ``FSE 2026`` *MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis* [[To appear]]()<br>
+- ``FSE 2026`` *MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis* [[Paper]](https://dl.acm.org/doi/10.1145/3786582.3786839)<br>
 **Congying Xu**, Songqiang Chen, Hengcheng Zhu, Jiarong Wu, Valerio Terragni, Shing-Chi Cheung 
 
 - ``ASE 2024`` *MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing* [[Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3696020)] <br>
@@ -78,7 +78,7 @@ Kästner
 - ``TOSEM 2024`` *MR-Scout: Automated Synthesis of Metamorphic Relations from Existing Test Cases* [[Paper](https://dl.acm.org/doi/abs/10.1145/3656340)] <br>
 **Congying Xu**, Valerio Terragni, Hengcheng Zhu, Jiarong Wu, Shing-Chi Cheung
 
-- ``TOSEM 2026`` *Less Is More: Failing Test Generation with Large Language Models* [[To Appear]]() <br>
+- ``TOSEM 2026`` *Less Is More: Failing Test Generation with Large Language Models* [[Paper]](https://dl.acm.org/doi/10.1145/3793675) <br>
 Tsz-On Li, Xiaochuan Yan, Wenxi Zong, Yibo Wang, Haoye Tian, **Congying Xu**, Ying Wang, Shing-Chi Cheung, and Jeff Kramer
 
 ### LLM-Empowered Code Translation and Generation
