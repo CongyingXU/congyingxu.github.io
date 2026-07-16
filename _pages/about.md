@@ -61,7 +61,7 @@ If you know of a postion that might be a match, or would like to hear more about
 ### LLM Agent Safety and Reliability
 
 <!-- - ``To Appear`` *Discovering Silent Failures in LLM Agents via Metamorphic Testing* -->
-- ``ICSE-NIER 2026`` *Towards Verifiably Safe Tool Use for LLM Agents* [[To appear]](https://conf.researchr.org/details/icse-2026/icse-2026-nier/41/Towards-Verifiably-Safe-Tool-Use-for-LLM-Agents) <br>
+- ``ICSE-NIER 2026`` *Towards Verifiably Safe Tool Use for LLM Agents* [[Paper]](https://dl.acm.org/doi/10.1145/3786582.3786839) <br>
 Aarya Doshi, Yining Hong, **Congying Xu**, Eunsuk Kang, Alexandros Kapravelos, Christian
 Kästner
 
@@ -69,7 +69,7 @@ Kästner
 
 ### LLM-Empowered Software Testing
 
-- ``FSE 2026`` *MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis* [[Paper]](https://dl.acm.org/doi/10.1145/3786582.3786839)<br>
+- ``FSE 2026`` *MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis* [[Paper]](https://dl.acm.org/doi/10.1145/3808213)<br>
 **Congying Xu**, Songqiang Chen, Hengcheng Zhu, Jiarong Wu, Valerio Terragni, Shing-Chi Cheung 
 
 - ``ASE 2024`` *MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing* [[Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3696020)] <br>
