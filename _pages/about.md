@@ -48,8 +48,8 @@ If you know of a postion that might be a match, or would like to hear more about
 - 2025.12: 🎉 One paper "Towards Verifiably Safe Tool Use for LLM Agents" has been accepted by ICSE-NIER 2026!
 
 # 📖 Working/Education Experience
-- *2026.03 - now*, Researcher, **The Hong Kong University of Science and Technology**
-- *2022.09 - 2026.03*, PhD Degree, **The Hong Kong University of Science and Technology**.
+- *2026.06 - now*, Researcher, **The Hong Kong University of Science and Technology**
+- *2022.09 - 2026.06*, PhD Degree, **The Hong Kong University of Science and Technology**.
   <!-- * Thesis: [Automated and Effective Metamorphic Testing: Relation Discovery, Deduction, and Generation](../docs/Thesis.pdf) -->
 - *2025.01 - 2025.06*, Visiting Scholar, **Carnegie Mellon University**.
 - *2019.09 - 2022.06*, Master Degree, **Fudan University**.
