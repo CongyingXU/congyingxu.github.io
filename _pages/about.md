@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Congying (Alex) XU, a Researcher at HKUST, working with [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). I obtained my PhD from HKUST, supervised by [Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow, Chair Professor). 
+I am Congying (Alex) XU. 
+ <!-- a Researcher at HKUST, working with [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).  -->
+I obtained my PhD from HKUST, supervised by [Prof. Shing-Chi CHEUNG](https://cse.hkust.edu.hk/~scc/) (IEEE Fellow, Chair Professor). 
 I was a visiting scholar at CMU (Carnegie Mellon University), collaborating with [Prof. Christian Kästner](https://www.cs.cmu.edu/~ckaestne/index.html). 
 
 I am exploring research topics about **AI Coding** and  **Trustworthy AI Systems**. I have published papers in leading software engineering venues, including ICSE, FSE, ASE, TOSEM, TSE, EMSE, etc. 
@@ -48,8 +50,8 @@ If you know of a postion that might be a match, or would like to hear more about
 - 2025.12: 🎉 One paper "Towards Verifiably Safe Tool Use for LLM Agents" has been accepted by ICSE-NIER 2026!
 
 # 📖 Working/Education Experience
-- *2026.06 - now*, Researcher, **The Hong Kong University of Science and Technology**
-- *2022.09 - 2026.06*, PhD Degree, **The Hong Kong University of Science and Technology**.
+<!-- - *2026.06 - now*, Researcher, **The Hong Kong University of Science and Technology** -->
+- *2022.09 - 2026.05*, PhD Degree, **The Hong Kong University of Science and Technology**.
   <!-- * Thesis: [Automated and Effective Metamorphic Testing: Relation Discovery, Deduction, and Generation](../docs/Thesis.pdf) -->
 - *2025.01 - 2025.06*, Visiting Scholar, **Carnegie Mellon University**.
 - *2019.09 - 2022.06*, Master Degree, **Fudan University**.
